@@ -1,14 +1,3 @@
-def print_pattern():
-    print("   /*****\\      /*****\\")
-    print("  /********\\   /********\\")
-    print(" /**********\\ /**********\\")
-    print(" \\***********************/")
-    print("   \\*******************/")
-    print("    \\****************/")
-    print("      \\*************/")
-    print("       \\**********/")
-    print("        \\*******/")
-    print("         \\****/")
+aku sedang mengembangkan aplikasi yang bermanfaat untuk semesta dengan menggunakan bahasa pemrograman king cobra
 
-print_pattern()
-   
+king cobra ver.1.0
