@@ -37,7 +37,7 @@ Don’t bite. (He bites.) 🐾
 
 ## 🔗 Links
 - 🌐 **Website:** https://brokenartyy.github.io/Sign-my-ata/
-- 🫠 **Strawpage:** hasnull.straw.page
+- 🫠 **Strawpage:** https://hasnull.straw.page/
 
 ---
 
