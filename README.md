@@ -25,12 +25,16 @@ Don’t bite. (He bites.) 🐾
 
 ---
 
-## ✨ Features
-- 🪧 Anonymous messages
-- 🎨 Cute pastel UI
-- ⚡ Realtime (Firebase)
-- 👑 Admin reply system
-- 📱 Mobile-friendly
+## 🤐 DNI:
+(nah bro, I wouldn't limit everyone who wants to interact w me, as well as you can maintain your attitude)
+
+---
+
+## 🥂 fandoms:
+- MGR and MGS
+- DMC
+- GI 
+- Livies
 
 ---
 
@@ -40,12 +44,7 @@ Don’t bite. (He bites.) 🐾
 
 ---
 
-## 🧸 Notes
-- Messages are public
-- No login required for visitors
-- Please behave or Raiden will judge you silently
-
----
+[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/track/2TOzTqQXNmR2zDJXihjZ2e)
 
 <p align="center">
   <i>made with 🤍 by Brokenartyy</i>
