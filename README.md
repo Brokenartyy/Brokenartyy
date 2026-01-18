@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/been-obsessed-with-raiden-recently-have-an-entire-v0-nqggtyjfzkr81.png
+  <img src=".been-obsessed-with-raiden-recently-have-an-entire-v0-nqggtyjfzkr81.png
     " width="300" alt="Sign My ATA">
 </p>
 
