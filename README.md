@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=".been-obsessed-with-raiden-recently-have-an-entire-v0-nqggtyjfzkr81.png
-    " width="300" alt="Sign My ATA">
+  <img src="./been-obsessed-with-raiden-recently-have-an-entire-v0-nqggtyjfzkr81.png" width="320">
 </p>
 
 <p align="center">
