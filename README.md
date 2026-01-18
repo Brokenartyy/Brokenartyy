@@ -47,6 +47,6 @@ Don’t bite. (He bites.) 🐾
 [![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/track/2TOzTqQXNmR2zDJXihjZ2e)
 
 <p align="center">
-  <i>made with 🤍 by Brokenartyy</i>
+  <i>made with 🤍 by Nanaa</i>
 </p>
 
