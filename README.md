@@ -1,6 +1,6 @@
 <img src="picmix.com_2804430.png" width="1000">
 <p align="center">
-  <img src="./been-obsessed-with-raiden-recently-have-an-entire-v0-nqggtyjfzkr81.png" width="320">
+  <img src="./been-obsessed-with-raiden-recently-have-an-entire-v0-nqggtyjfzkr81.png" width="500">
 </p>
    
 <p align="center">
