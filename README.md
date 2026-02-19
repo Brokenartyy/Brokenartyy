@@ -48,7 +48,6 @@ Don’t bite. (He bites.) 🐾
 [![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/album/1D06fz3cuob62ysTS8k6gu)
 
 <p align="center">
-  <a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
-  
+  <a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a> 
 </p>
 
