@@ -22,14 +22,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brokenartyy&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -41,7 +33,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,godot,node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,godot,nodejs" />
 </p>
 
 ---
